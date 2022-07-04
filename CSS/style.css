@@ -1,0 +1,41 @@
+/* tr, td {
+    padding: 10px 20px 10px 10px;
+}
+
+body {
+    padding: 0px 40px 0px 40px;
+}
+
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: rgb(200 200 200);
+    color: black;
+} */
+
+/* nav ul {
+    list-style-type: none;
+    padding: 10px;
+    overflow: hidden;
+    background-color: #333333;
+}
+
+nav li {
+    float: left;
+}
+
+nav li p{
+    color: rgb(200, 200, 200);
+}
+
+nav li input{
+    float: right;
+    margin: 20px;
+} */
+
+/* Nav */
+
+nav{margin: auto; background-color: #333333; color:rgb(200 200 200); border: 1px solid #000;}
+nav ul li{display: inline-block; padding: 8px 25px;}
+nav ul li a {text-decoration: none; color: #000; font-weight: bold;}
+nav ul li a:hover {text-decoration: none; color: #F60; font-weight: bold;}
